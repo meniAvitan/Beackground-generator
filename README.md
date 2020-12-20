@@ -1,2 +1,2 @@
 # Background-generator
-Choose your favorite background and embed it in your code
+Choose your favorite background linear-gradient and embed it in your code
